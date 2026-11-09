@@ -1,3 +1,9 @@
 # Proyecto GitHub
 
-Manejo de conceptos Push and Pull
+# Integrantes
+
+Franco Moises Lopez Dulon
+Michelle Alondra Morales Valdivia
+Luis Felipe Garcia Saucedo
+Freddy Rojas Jimenez
+Lucas Rodriguez Orellana
